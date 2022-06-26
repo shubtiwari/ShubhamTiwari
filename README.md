@@ -1,24 +1,42 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36" height="36" > My name is Shubham Tiwari
+===============================
 
-<a href="mailto:shubham.tiwari@coloredcow.in"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
-<a href="https://gitlab.coko.foundation/shubtiwari"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"></a>
+Software Developer
+------------------
+
+* 🌍  I'm based in Gurugram
+* ✉️  You can contact me at [shubham.tiwari@coloredcow.in](mailto:shubham.tiwari@coloredcow.in)
+* 🚀  I'm currently working on [Coloredcow](http://coloredcow.com)
+
+<a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/stiwariiii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/shubtiwari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shubtiwari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href=" "><img width="36" height="36" alt="Docker" src="https://img.icons8.com/fluency/240/000000/docker.png"/>
+</p>
 
 
-### 🔧 Technologies & Tools
+### Socials
 
-![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
-![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
-![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=social)&nbsp;&nbsp;
-
+<p align="left"> <a href="https://www.github.com/shubtiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/stiwariiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/18018373/shubham-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="mailto:shubham.tiwari@coloredcow.in" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/480/000000/gmail-new.png"/></a>
+<a href="https://gitlab.coko.foundation/shubtiwari"><img height="32" width="32" src="https://img.icons8.com/color/480/000000/gitlab.png"/ ></a>
+</p>
 
 
 ### 🏆 GitHub Trophies
@@ -26,10 +44,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubtiwari&margin-w=15)](https://github.com/shubtiwari/github-profile-trophy)
 
 
-### &#x1f4c8; GitHub Stats
+
+### Badges
+
+<b>&#x1f4c8;My GitHub Stats</b>
+
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubtiwari&show_icons=true&theme=vue" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shubtiwari" width = 400>
+<a href="http://www.github.com/shubtiwari">
+<img src="https://github-readme-stats.vercel.app/api?username=shubtiwari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shubtiwari's GitHub stats" width = 400 />
+</a>
+<a href="http://www.github.com/shubtiwari">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubtiwari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width = 400/>
+</a>
 </p>
 
 
