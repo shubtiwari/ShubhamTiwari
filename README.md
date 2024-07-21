@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Gurugram
-* ✉️  You can contact me at [shubham.tiwari@coloredcow.in](mailto:shubham.tiwari@coloredcow.in)
+* ✉️  You can contact me at [st.shubtiwari@gmail.com](mailto:st.shubtiwari@gmail.com)
 * 🚀  I'm currently working on [Coloredcow](http://coloredcow.com)
 
 <a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img
