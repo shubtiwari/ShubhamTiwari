@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Gurugram
 * ✉️  You can contact me at [st.shubtiwari@gmail.com](mailto:st.shubtiwari@gmail.com)
-* 🚀  I'm currently working on [Coloredcow](http://coloredcow.com)
+* 🚀  I'm currently working on [JODO](https://www.jodo.in/)
 
 <a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/stiwariiii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
