@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 Software Developer
 ------------------
 
-* 🌍  I'm based in Gurugram
+* 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [st.shubtiwari@gmail.com](mailto:st.shubtiwari@gmail.com)
 * 🚀  I'm currently working on [JODO](https://www.jodo.in/)
 
